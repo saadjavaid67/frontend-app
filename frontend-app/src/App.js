@@ -6,27 +6,27 @@ function App() {
     <div className="App">
       <Navbar bg="dark" variant="dark" className="my-nav">
         <Navbar.Brand href="#home">
-          Jack's Amazing Website!
+          Saad's Amazing Website!
         </Navbar.Brand>
       </Navbar>
       <Container>
         <Carousel className="gallery">
           <CarouselItem>
-            <img src="https://cleanshot-cloud-fra.s3.eu-central-1.amazonaws.com/media/11008/yiQqi7lwQFvkPlSad8S4XQAMUr1CXUK2yRJzGe7h.jpeg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEH4aDGV1LWNlbnRyYWwtMSJGMEQCIFv3K4kfwR6dC8Tooct9eu8V%2BbYXxAW23%2BXGo%2BPFaqIxAiBBtKcwz%2BlDnajF1G5p1Jz4FtM%2BgRMOQgkszYuv%2BbMYjCriAQjH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDkxOTUxNDQ5MTY3NCIM7a9G5EK2OiPAzFmiKrYBhAjFZr4wg9Y9N2ZThBMHxbZAECdUMMW2l%2Fn0hocnOdmWLYolZhcMbDoKLw88eyQr1y1Zt%2FkHLV7tA73stV7fxYJdWaJXrQxPcP1UDXCf3aHzjlP2lTGdhxnw5l7fqJqybT6n%2FPVWCQC8ffs7P2zdJMKHn1gKx9Jym9JBNVFOdkEv8sAzvzCWEPMU4ql%2BA%2F%2FjpB1iZTUj3ZDUk46Y96XX4ZbEvRlgVSGT5l02O9Hfjfvz0qRRf7swpqGegwY64QHWNHAIH0fWh8dih70Qv6HmQj7DNTsY7bmm43R9MjbY2HebbtemUNSfmHfhvuxKQ21wVsmvmYM7TOlk%2FRgLVEgfnYnuTraRhJzvt1wfguJjXYRcmGio45eCLZPICZ7%2Fn54ZuHMz4ij%2FtMoAxVaH9DjaiaT4SYpFslGVwN0bSHHpbs2p7uHEwWb0j567Tsbk4H63hG0gQn6treml1DuYROymwemS8kIuZBILL5EQQ2n%2FIwJJgam793iVec0ntkNxrkYsyTwuwF%2FfpUEeKvHpn9msQxt6pC0F0OUS%2Bo2l4iVO7A4%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA5MF2VVMNIHZF55XX%2F20210402%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20210402T231459Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Signature=562a722791e954a4c1a19cc6c6f598df2b97a32d9cbf917c0238b808b32a09b9" alt="BLAHAJ" />
+            <img src="https://i.ebayimg.com/images/g/LZkAAOSw7eleI5xP/s-l400.jpg" alt="BLAHAJ" />
             <Carousel.Caption>
               <h3>BLAHAJ</h3>
               <p>This is a BLAHAJ.</p>
             </Carousel.Caption>
           </CarouselItem>
           <CarouselItem>
-            <img src="https://cleanshot-cloud-fra.s3.eu-central-1.amazonaws.com/media/11008/viAftokHyfbw2f0Uugi1B0nWKugpulK5LQPTeS8n.jpeg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEH4aDGV1LWNlbnRyYWwtMSJGMEQCIFv3K4kfwR6dC8Tooct9eu8V%2BbYXxAW23%2BXGo%2BPFaqIxAiBBtKcwz%2BlDnajF1G5p1Jz4FtM%2BgRMOQgkszYuv%2BbMYjCriAQjH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDkxOTUxNDQ5MTY3NCIM7a9G5EK2OiPAzFmiKrYBhAjFZr4wg9Y9N2ZThBMHxbZAECdUMMW2l%2Fn0hocnOdmWLYolZhcMbDoKLw88eyQr1y1Zt%2FkHLV7tA73stV7fxYJdWaJXrQxPcP1UDXCf3aHzjlP2lTGdhxnw5l7fqJqybT6n%2FPVWCQC8ffs7P2zdJMKHn1gKx9Jym9JBNVFOdkEv8sAzvzCWEPMU4ql%2BA%2F%2FjpB1iZTUj3ZDUk46Y96XX4ZbEvRlgVSGT5l02O9Hfjfvz0qRRf7swpqGegwY64QHWNHAIH0fWh8dih70Qv6HmQj7DNTsY7bmm43R9MjbY2HebbtemUNSfmHfhvuxKQ21wVsmvmYM7TOlk%2FRgLVEgfnYnuTraRhJzvt1wfguJjXYRcmGio45eCLZPICZ7%2Fn54ZuHMz4ij%2FtMoAxVaH9DjaiaT4SYpFslGVwN0bSHHpbs2p7uHEwWb0j567Tsbk4H63hG0gQn6treml1DuYROymwemS8kIuZBILL5EQQ2n%2FIwJJgam793iVec0ntkNxrkYsyTwuwF%2FfpUEeKvHpn9msQxt6pC0F0OUS%2Bo2l4iVO7A4%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA5MF2VVMNIHZF55XX%2F20210402%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20210402T231708Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Signature=a7dce77c13d9d73b7e732b2899703cdd92a1217f11ad277c451bf026edbfe243" alt="BLAHAJ" />
+            <img src="https://preview.redd.it/noaeglll67x51.jpg?auto=webp&s=b16be7f301f498c6512dfc57be62e3a55fc6efea" alt="BLAHAJ" />
             <Carousel.Caption>
               <h3>BLAHAJ</h3>
               <p>This is a BLAHAJ.</p>
             </Carousel.Caption>
           </CarouselItem>
           <CarouselItem>
-            <img src="https://cleanshot-cloud-fra.s3.eu-central-1.amazonaws.com/media/11008/cpmdHa4iGtRDgjJ3klrLK2lnT2SqfSP07ec5R6dS.jpeg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEH4aDGV1LWNlbnRyYWwtMSJGMEQCIFv3K4kfwR6dC8Tooct9eu8V%2BbYXxAW23%2BXGo%2BPFaqIxAiBBtKcwz%2BlDnajF1G5p1Jz4FtM%2BgRMOQgkszYuv%2BbMYjCriAQjH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDkxOTUxNDQ5MTY3NCIM7a9G5EK2OiPAzFmiKrYBhAjFZr4wg9Y9N2ZThBMHxbZAECdUMMW2l%2Fn0hocnOdmWLYolZhcMbDoKLw88eyQr1y1Zt%2FkHLV7tA73stV7fxYJdWaJXrQxPcP1UDXCf3aHzjlP2lTGdhxnw5l7fqJqybT6n%2FPVWCQC8ffs7P2zdJMKHn1gKx9Jym9JBNVFOdkEv8sAzvzCWEPMU4ql%2BA%2F%2FjpB1iZTUj3ZDUk46Y96XX4ZbEvRlgVSGT5l02O9Hfjfvz0qRRf7swpqGegwY64QHWNHAIH0fWh8dih70Qv6HmQj7DNTsY7bmm43R9MjbY2HebbtemUNSfmHfhvuxKQ21wVsmvmYM7TOlk%2FRgLVEgfnYnuTraRhJzvt1wfguJjXYRcmGio45eCLZPICZ7%2Fn54ZuHMz4ij%2FtMoAxVaH9DjaiaT4SYpFslGVwN0bSHHpbs2p7uHEwWb0j567Tsbk4H63hG0gQn6treml1DuYROymwemS8kIuZBILL5EQQ2n%2FIwJJgam793iVec0ntkNxrkYsyTwuwF%2FfpUEeKvHpn9msQxt6pC0F0OUS%2Bo2l4iVO7A4%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA5MF2VVMNIHZF55XX%2F20210402%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20210402T231726Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Signature=1b310a98d4f0502e3def5e557d42dc82cf112cb2434aa9d532d739acbefddd04" alt="BLAHAJ" />
+            <img src="https://i.pinimg.com/originals/34/1c/89/341c892ac8816a089bf9f251e2bfb4bd.jpg" alt="BLAHAJ" />
             <Carousel.Caption>
               <h3>BLAHAJ</h3>
               <p>This is a BLAHAJ.</p>
